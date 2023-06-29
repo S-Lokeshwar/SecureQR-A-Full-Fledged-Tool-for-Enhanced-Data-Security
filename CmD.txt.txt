@@ -1,0 +1,1 @@
+python -m PyInstaller --noconfirm --onedir --windowed --add-data "C:/Users/warl7/AppData/Roaming/Python/Python311/site-packages/customtkinter;customtkinter/" "E:/Django Practice/New folder/QR_Steg_GUI.py"
